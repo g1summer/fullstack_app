@@ -1,0 +1,1 @@
+To run, unzip fullstack_app, in fullstack_app directory, run npm start.
